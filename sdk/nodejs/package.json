@@ -1,6 +1,6 @@
 {
     "name": "@pulumi/kubernetes-ingress-nginx",
-    "version": "${VERSION}",
+    "version": "0.11.0",
     "keywords": [
         "pulumi",
         "kubernetes",
